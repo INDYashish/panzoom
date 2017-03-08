@@ -1,0 +1,9 @@
+{
+  "name": "panzoom",
+  "description": "A jQuery plugin for panning and zooming elements using CSS3",
+  "homepage": "https://github.com/INDYashish/panzoom",
+  "author": "timmywil, ashish <a.mishra@indy-cloud.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/INDYashish/panzoom",
+  "packages": {}
+}
